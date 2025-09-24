@@ -13,25 +13,11 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ---
 
-##  What’s inside?  
-
-- **Technical Research**  
-- **Frontend Engineering**  
-- **Security**  
-- **Programming Paradigms**  
-- **Product Thinking**  
-- *(…and more, check the [TODO List](./TODO.md))*  
-
----
-
 ##  Why open source?  
 
 -  To share knowledge with new members and other labs  
 -  To attract people who are truly curious and want to go deeper  
 -  To preserve Geek spirit: **好奇之心，改变之力**  
-
-We believe:  
- *Our uniqueness lies not in hiding, but in going deep.*  
 
 ---
 
