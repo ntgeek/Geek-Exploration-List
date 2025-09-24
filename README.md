@@ -29,6 +29,6 @@ Pull requests are welcome!
 - Refine existing notes  
 - Share your research & hacks  
 
-If you have crazy ideas, just try them out — **Just Do It ~**  
+If you have crazy ideas, just try them out — Just Do It ~  
 
 ---
