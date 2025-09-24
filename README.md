@@ -8,9 +8,9 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ## 🎯 Our Goal  
 
-🌟 Stay curious  
-🛠️ Keep hacking  
-🔍 Explore the essence behind technology  
+- Stay curious  
+- Keep hacking  
+- Explore the essence behind technology  
 
 ---
 
