@@ -6,7 +6,7 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ---
 
-## 🎯 Our Goal  
+##  Our Goal  
 
 - Stay curious  
 - Keep hacking  
@@ -14,7 +14,7 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ---
 
-## 📌 What’s inside  
+##  What’s inside?  
 
 - **Technical Research**  
 - **Frontend Engineering**  
@@ -25,7 +25,7 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ---
 
-## 💡 Why open source?  
+##  Why open source?  
 
 -  To share knowledge with new members and other labs  
 -  To attract people who are truly curious and want to go deeper  
@@ -36,7 +36,7 @@ We believe:
 
 ---
 
-## 🤝 Contributing  
+##  Contributing  
 
 Pull requests are welcome!  
 
