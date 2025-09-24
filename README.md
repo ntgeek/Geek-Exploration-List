@@ -13,7 +13,7 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ---
 
-##  Why open source?  
+##  Why open source 
 
 -  To share knowledge with new members and other labs  
 -  To attract people who are truly curious and want to go deeper  
