@@ -9,7 +9,6 @@ covering **backend, frontend, security, product, and computer science fundamenta
 ##  Our Goal  
 
 - Stay curious  
-- Keep hacking  
 - Explore the essence behind technology  
 
 ---
@@ -42,7 +41,7 @@ Pull requests are welcome!
 
 - Add new exploration points  
 - Refine existing notes  
--  Share your research & hacks  
+- Share your research & hacks  
 
 If you have crazy ideas, just try them out — **Just Do It ~**  
 
