@@ -1,6 +1,6 @@
 # Geek-Exploration-List 
 
-This repository is an **open exploration list** from the Geek Group (新思路 · Geek组).  
+This repository is an open-source exploration resources maintained by the **New Thread Lab - Geek Team** (新思路实验室 · Geek 组).
 It collects the directions we have studied, hacked, and explored over the years —  
 covering **backend, frontend, security, product, and computer science fundamentals**.  
 
@@ -15,7 +15,7 @@ covering **backend, frontend, security, product, and computer science fundamenta
 
 ##  Why open source 
 
--  To share knowledge with new members and other labs  
+-  To share knowledge 
 -  To attract people who are truly curious and want to go deeper  
 -  To preserve Geek spirit: **好奇之心，改变之力**  
 
