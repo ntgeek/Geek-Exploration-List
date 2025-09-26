@@ -1,6 +1,7 @@
 # Geek-Exploration-List 
 
-This repository is an open-source exploration resources maintained by the **New Thread Lab - Geek Team** (新思路实验室 · Geek 组).
+This repository is an open-source exploration resources maintained by the **New Thread Lab - Geek Team** (新思路实验室 · Geek 组).  
+
 It collects the directions we have studied, hacked, and explored over the years —  
 covering **backend, frontend, security, product, and computer science fundamentals**.  
 
